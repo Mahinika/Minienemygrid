@@ -1,4 +1,0 @@
-## Interface: 100105
-## Title: MiniEnemyGrid
-## Notes: Shows clickable enemy frames with health bars
-MiniEnemyGrid.lua
